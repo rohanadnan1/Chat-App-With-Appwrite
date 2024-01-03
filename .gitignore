@@ -19,7 +19,11 @@
 # misc
 .DS_Store
 *.pem
+<<<<<<< HEAD
 
+=======
+/env
+>>>>>>> 759d73c7ee54dbac036379efdb88ca50f7d75b05
 # debug
 npm-debug.log*
 yarn-debug.log*
